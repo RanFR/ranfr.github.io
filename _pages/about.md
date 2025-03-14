@@ -16,14 +16,23 @@ redirect_from:
 
 # 📝 论文发表
 
-<div class='paper-box'><div class='paper-box-image'><div>
-<div class="badge">ICCA 2025</div>
-<img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div class="badge">ICCA 2025</div>
+    <img src="images/500x300.png" alt="sym" width="100%">
+  </div>
+  <div class="paper-box-text">
+    <a href="https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf">
+      <strong>Autonomous UAV Path Planning in Dynamic Environments: A Hybrid Framework of Trajectory Prediction and Priority-Aware DWA</strong>
+    </a>
+    <p><strong>Fengrui Ran</strong>, Chengpu Yu, Erpei Xu, Yunji Feng</p>
+    <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC">
+      <strong>工作创新</strong>
+    </a>
+    <p>哈哈</p>
+  </div>
+</div>
 
-[PDWA](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Fengrui Ran**, Chengpu Yu, Erpei Xu, Yunji Feng
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
@@ -37,5 +46,5 @@ redirect_from:
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<!-- # 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
