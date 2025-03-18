@@ -3,8 +3,17 @@ main:
   - title: "个人简介"
     url: "/#about-me"
 
+  - title: "教育经历"
+    url: "/#education"
+
+  - title: "项目经历"
+    url: "/#projects"
+
   - title: "论文发表"
     url: "/#papers"
+
+  - title: "荣誉奖项"
+    url: "/#awards"
 
   # - title: "Honors and Awards"
   #   url: "/#-honors-and-awards"
