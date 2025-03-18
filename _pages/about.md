@@ -16,43 +16,43 @@ redirect_from:
 
 我的研究兴趣包括**无人机/无人车路径规划与运动控制**等，并在这些方面具有丰富的动手能力与项目经验。我在国际会议上发表过多篇论文，包括IEEE ICCA以及IEEE RCAR。
 
-<span class="anchor" id="skills"/>
+<div id="skills"></div>
 
 # 💪 素质能力
 
-- 专业背景：
-  - 研究方向为**无人系统自主导航与控制**，包括**无人机/无人车**路径规划与控制、未知环境探索等。
-- 开发经验：
+**专业背景**：研究方向为**无人系统自主导航与控制**，包括**无人机/无人车**路径规划与控制、未知环境探索等。
+
+**开发经验**：
+
   - 无人机/无人车软硬件开发经验丰富，熟练使用ROS平台、PX4飞控、Gazebo仿真；
   - 熟悉Linux系统基本操作以及Git、CMake、VS Code、NeoVim等工具；
-  - 熟悉Hybrid A*、D*等路径规划算法，熟悉PID、MPC等控制算法；
+  - 熟悉Hybrid A\*、D\*等路径规划算法，熟悉PID、MPC等控制算法；
   - 了解OSQP、CasAdi等数值优化库。
-- 编程语言：
-  - 熟练使用C/C++、Python，了解C++ Boost/Eigen/PCL库、Python Pytorch/Numpy等框架，熟悉MATLAB基础语法。
-- 英语水平：
-  - 四六级已通过，具有良好的英语写作、交流与文献阅读能力。
-- 其他
-  - 具有硬件软件动手调试能力，了解SolidWorks基础使用。
 
-<span class="anchor" id="education"/>
+**编程语言**：熟练使用C/C++、Python，了解C++ Boost/Eigen/PCL库、Python Pytorch/Numpy等框架，熟悉MATLAB基础语法。
+
+**英语水平**：四六级已通过，具有良好的英语写作、交流与文献阅读能力。
+
+**其他**：具有硬件软件动手调试能力，了解SolidWorks基础使用。
+
+<div id="education"></div>
 
 # 📖 教育经历
 
-- *2019年9月 - 2023年6月* 北京理工大学  **徐特立英才班**（北理工拔尖人才培养特区
+## 北京理工大学/徐特立英才班（北理工拔尖人才培养特区）
 
-  工学学士学位，自动化方向('**双一流学科**'，'**A+**')
+`2019.9-2023.6 | 工学学士学位 | 自动化方向`
 
-  学分绩：85.0/100，多次获得一等学业奖学金
+  - 学分绩：85.0/100，多次获得**一等**学业奖学金
 
-- *2023年9月 - 至今* 北京理工大学  自动化学院（模式识别与智能系统方向）
+## 北京理工大学/控制工程（模式识别与智能系统方向）
 
-  工学硕士学位（**保研**） 控制工程专业
+`2023.6-至今 | 工学硕士学位 | 保研`
 
-  学分绩：86.1/100，多次获得一等学业奖学金
+  - 学分绩：86.1/100，多次获得**一等**学业奖学金
+  - 获得中国机器人及人工智能大赛**一等奖**、“华为杯”中国研究生数学建模竞赛**三等奖**
 
-  获得中国机器人及人工智能大赛一等奖、“华为杯”中国研究生数学建模竞赛三等奖
-
-<span class="anchor" id="projects"/>
+<div id="projects"></div>
 
 # 📁 项目比赛
 
@@ -121,7 +121,7 @@ redirect_from:
 
 **项目成果**：构建了多种类型的小型自主无人机，分别基于深度相机与激光雷达，并且嵌入相应的视觉与激光里程计，具有不弱于各厂家所制作的科研无人机性能水平。
 
-<span class="anchor" id="papers"/>
+<div id="papers"></div>
 
 # 📝 论文发表
 
@@ -135,7 +135,7 @@ redirect_from:
       <strong>Autonomous UAV Path Planning in Dynamic Environments: A Hybrid Framework of Trajectory Prediction and Priority-Aware DWA</strong>
     </a> -->
     <strong>Autonomous UAV Path Planning in Dynamic Environments: A Hybrid Framework of Trajectory Prediction and Priority-Aware DWA</strong>
-    <p><strong>Fengrui Ran</strong>, Chengpu Yu, Erpei Xu, Yunji Feng</p>
+    <p><strong><em>Fengrui Ran</em></strong>, Chengpu Yu, Erpei Xu, Yunji Feng</p>
     <!-- <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC">
       <strong>工作创新</strong>
     </a> -->
@@ -158,7 +158,7 @@ redirect_from:
       <strong>ExploreGS: a vision-based low overhead framework for 3D scene reconstruction</strong>
     </a> -->
     <strong>ExploreGS: a vision-based low overhead framework for 3D scene reconstruction</strong>
-    <p>Yunji Feng, Chengpu Yu, <strong>Fengrui Ran</strong>, Zhi Yang, Yinni Liu</p>
+    <p>Yunji Feng, Chengpu Yu, <strong><em>Fengrui Ran</em></strong>, Zhi Yang, Yinni Liu</p>
     <!-- <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC">
       <strong>参与工作</strong>
     </a> -->
@@ -171,9 +171,9 @@ redirect_from:
   </div>
 </div>
 
-<span class="anchor" id="awards"/>
+<div id="awards"></div>
 
-# 🎖 荣誉奖项
+# 🏅 荣誉奖项
 - *2024* 中国机器人及人工智能大赛**一等奖**（**国家级**）
 - *2024* 中国研究生数学建模竞赛**三等奖**（**国家级**）
 - *2023* 全国大学生课外学术科技作品竞赛**一等奖**（院校级）
